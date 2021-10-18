@@ -1,0 +1,11 @@
+
+
+
+    .one{ width:1500px; height:100px; background:url(img/bg.jpg) repeat-x;}
+	.one p{ color:#FFF; padding-left:30px;}
+	.two{ width:1000px; height:500px; margin:0 auto;}
+	li{ list-style:none; float:left; width:300px; height:350px; margin-left:20px; text-align:center; color:#CCC;}
+	
+	.ww{ border-radius:40px;}
+	.yy{ border-radius:50%;}
+	img:hover{ opacity:0.6;}
